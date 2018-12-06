@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+
+
+#content5-19 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Oswald', sans-serif;
+}
+#content5-19 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-19 .mbr-article {
+  color: #fff;
+}
+#content5-19 .mbr-article P {
+  color: #ffffff;
+  font-size: 24px;
+  font-family: 'Lato', sans-serif;
+}
+#form1-v .mbr-header__text {
+  color: #efefef;
+}
+
+
+
+#ext_menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #caad82;
+}
+#ext_menu-1 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header4-3 P {
+  text-align: center;
+  font-family: 'PT Serif', serif;
+}
+#header4-3 I {
+  font-family: 'Bitter', serif;
+  color: #ffffff;
+}
+#header4-3 H1 {
+  text-align: center;
+}
+#features1-9 P {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+#slider-4 P {
+  color: #000000;
+  text-align: center;
+}
+#slider-4 H1 {
+  color: #000000;
+}
+#msg-box4-6 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-6 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-6 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-article {
+  color: #ffffff;
+}
